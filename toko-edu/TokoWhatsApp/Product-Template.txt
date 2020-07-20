@@ -1,0 +1,37 @@
+<div class='productPhoto'>
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 📷 Photo  -->
+
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ / 📷 Photo -->
+</div>
+
+<div class='productDetail' data-stock='on'>
+
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 🔖 Price -->
+<span itemprop='price' class='productPrice' data-discount-percent='0'>140000</span>
+
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 💡 Option -->
+<ul id='Ukuran' data-detail='' class='productOption'>
+<li>S</li>
+<li>M</li>
+<li>L</li>
+<li>XL</li>
+</ul>
+
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 💬 Detail Description-->
+<div class='detailDescription'>
+
+<b>Detail Produk</b>
+
+<ul>
+<li>Detail 1</li>
+<li>Detail 2</li>
+<li>Detail 3</li>
+<li>Detail dst..</li>
+</ul>
+
+<small><b>Disclaimer:</b> Persamaan warna foto katalog dengan produk asli mencapai 98%. Efek cahaya, kecerahan, kerapatan, dan resolusi layar memungkinkan terjadinya distorsi warna.</small>
+
+</div>
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ / 💬 Detail Description-->
+
+</div>
