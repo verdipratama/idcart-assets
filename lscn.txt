@@ -1,1 +1,1 @@
-let arrWEB = ['smarthafizpedia.blogspot.com'];
+let arrWEB = ['idcart.blogspot.com'];
